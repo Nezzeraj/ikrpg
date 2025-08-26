@@ -30,7 +30,7 @@
   },
   "url": "https://github.com/BrenoBaiardi/ikrpg",
   "manifest": "https://raw.githubusercontent.com/BrenoBaiardi/ikrpg/refs/heads/main/system.json",
-  "download": "https://github.com/BrenoBaiardi/ikrpg/releases/tag/v0.1.5/system.zip",
+  "download": "https://github.com/BrenoBaiardi/ikrpg/releases/download/0.1.5/system.zip",
   "license": "MIT",
   "statusEffects": [
     {
